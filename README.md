@@ -28,7 +28,7 @@ I'm a graduate student in Computing and Software Engineering at McMaster Univers
 
 ### 📌 Featured Projects
 
-#### [AnDri: Anomaly & Drift Co-Detection System (CIKM 2025 Demo, Under Review)](https://github.com/mac-dsl/AnDriDemo)
+#### [AnDri: Anomaly & Drift Co-Detection System (CIKM 2025 Demo)](https://github.com/mac-dsl/AnDriDemo)
 - Developed an **active learning workflow** for time series anomaly detection, enabling iterative threshold adjustment and validation with minimal user input.
 - Achieved a 20% reduction in false positives and a 15% boost in detection accuracy using Tableau for parameter sensitivity analysis.
 
